@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at Rice ECE, working with Prof. Ashok Veeraraghavan and Prof. Ashu Sabharwal. I received the Ph.D., M. Sc. and B. Sc. degrees in Electrical Engineering from the Universidad Industrial de Santander, Colombia, in 2023, 2018 and 2016, respectively. My main research interests are computational imaging, compressive sensing, high dimensional signal processing, optimization, integrated
+I am a postdoctoral researcher at Rice ECE, working with Prof. Ashok Veeraraghavan and Prof. Ashu Sabharwal. I received my Ph.D., M. Sc. and B. Sc. degrees in Electrical Engineering from the Universidad Industrial de Santander, Colombia, in 2023, 2018 and 2016, respectively. My main research interests are computational imaging, compressive sensing, high dimensional signal processing, optimization, integrated
 sensing and communications and machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
